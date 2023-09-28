@@ -31,7 +31,7 @@
 ```bash
 $ npm install
 
-Before Rungging App follow this instruction below
+Before Running App follow this instruction below
 1. Make Account in Twilio
 2. Make .env file
 3. fill .env file with
