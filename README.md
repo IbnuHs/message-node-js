@@ -31,7 +31,15 @@
 ```bash
 $ npm install
 ```
-
+## Before Running App
+```bash
+1. Make Account in Twilio
+2. Make .env file
+3. fill .env file with
+ACCOUNT_SID= Your Account SID from TWILIO
+AUTH_TOKEN= Your Auth Token From TWILIO
+PHONE_NUMBER = Your Phone Number for sen Message from Twilio
+```
 ## Running the app
 
 ```bash
